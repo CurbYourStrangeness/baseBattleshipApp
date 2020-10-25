@@ -1,0 +1,16 @@
+C:\Users\evolu\source\repos\battleship\battleship0\battleship0\obj\Debug\netcoreapp3.1\battleship0.csprojAssemblyReference.cache
+C:\Users\evolu\source\repos\battleship\battleship0\battleship0\obj\Debug\netcoreapp3.1\battleship0.csproj.CoreCompileInputs.cache
+C:\Users\evolu\source\repos\battleship\battleship0\battleship0\obj\Debug\netcoreapp3.1\battleship0.AssemblyInfoInputs.cache
+C:\Users\evolu\source\repos\battleship\battleship0\battleship0\obj\Debug\netcoreapp3.1\battleship0.AssemblyInfo.cs
+C:\Users\evolu\source\repos\battleship\battleship0\battleship0\bin\Debug\netcoreapp3.1\battleship0.exe
+C:\Users\evolu\source\repos\battleship\battleship0\battleship0\bin\Debug\netcoreapp3.1\battleship0.deps.json
+C:\Users\evolu\source\repos\battleship\battleship0\battleship0\bin\Debug\netcoreapp3.1\battleship0.runtimeconfig.json
+C:\Users\evolu\source\repos\battleship\battleship0\battleship0\bin\Debug\netcoreapp3.1\battleship0.runtimeconfig.dev.json
+C:\Users\evolu\source\repos\battleship\battleship0\battleship0\bin\Debug\netcoreapp3.1\battleship0.dll
+C:\Users\evolu\source\repos\battleship\battleship0\battleship0\bin\Debug\netcoreapp3.1\battleship0.pdb
+C:\Users\evolu\source\repos\battleship\battleship0\battleship0\bin\Debug\netcoreapp3.1\PlayerInfo0.dll
+C:\Users\evolu\source\repos\battleship\battleship0\battleship0\bin\Debug\netcoreapp3.1\PlayerInfo0.pdb
+C:\Users\evolu\source\repos\battleship\battleship0\battleship0\obj\Debug\netcoreapp3.1\battleship0.csproj.CopyComplete
+C:\Users\evolu\source\repos\battleship\battleship0\battleship0\obj\Debug\netcoreapp3.1\battleship0.dll
+C:\Users\evolu\source\repos\battleship\battleship0\battleship0\obj\Debug\netcoreapp3.1\battleship0.pdb
+C:\Users\evolu\source\repos\battleship\battleship0\battleship0\obj\Debug\netcoreapp3.1\battleship0.genruntimeconfig.cache

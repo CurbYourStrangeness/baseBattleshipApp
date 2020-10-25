@@ -1,0 +1,9 @@
+C:\Users\evolu\source\repos\battleship\battleship0\PlayerInfo0\bin\Debug\netstandard2.0\PlayerInfo0.deps.json
+C:\Users\evolu\source\repos\battleship\battleship0\PlayerInfo0\bin\Debug\netstandard2.0\PlayerInfo0.dll
+C:\Users\evolu\source\repos\battleship\battleship0\PlayerInfo0\bin\Debug\netstandard2.0\PlayerInfo0.pdb
+C:\Users\evolu\source\repos\battleship\battleship0\PlayerInfo0\obj\Debug\netstandard2.0\PlayerInfo0.csprojAssemblyReference.cache
+C:\Users\evolu\source\repos\battleship\battleship0\PlayerInfo0\obj\Debug\netstandard2.0\PlayerInfo0.csproj.CoreCompileInputs.cache
+C:\Users\evolu\source\repos\battleship\battleship0\PlayerInfo0\obj\Debug\netstandard2.0\PlayerInfo0.AssemblyInfoInputs.cache
+C:\Users\evolu\source\repos\battleship\battleship0\PlayerInfo0\obj\Debug\netstandard2.0\PlayerInfo0.AssemblyInfo.cs
+C:\Users\evolu\source\repos\battleship\battleship0\PlayerInfo0\obj\Debug\netstandard2.0\PlayerInfo0.dll
+C:\Users\evolu\source\repos\battleship\battleship0\PlayerInfo0\obj\Debug\netstandard2.0\PlayerInfo0.pdb
